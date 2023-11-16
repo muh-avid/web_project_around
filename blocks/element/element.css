@@ -1,0 +1,11 @@
+.element {
+    margin: 8px 5px;
+    width: 282px;
+    height: 361px;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    grid-template-areas: 'images delete' 'text like';
+    border-radius: 5%;
+    background-color: #fff;
+    overflow: hidden;
+}

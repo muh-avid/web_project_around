@@ -1,0 +1,10 @@
+.element__liked-active {
+    width: 21px;
+    height: 19px;
+    margin: auto;
+    border: none;
+    text-align: center;
+    grid-area: like;
+    background-image: url(/Images/ButtonLiked.svg);
+    color: black;
+}
