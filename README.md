@@ -2,7 +2,7 @@
 
 ![Alt text](image-1.png)
 
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+### | [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 Dalam proyek web ini, penerapan HTML, CSS yang mengikuti aturan BEM (Block Element Modifier) dan JavaScript telah dilakukan, sehingga landing page ini responsif di semua ukuran layar perangkat.
 
