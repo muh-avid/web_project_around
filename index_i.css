@@ -1,0 +1,9 @@
+.page__navbar  > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.page__navbar > li {
+    display: inline;
+}
