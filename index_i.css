@@ -4,8 +4,16 @@
     padding: 0;
     display: flex;
     justify-content: space-around;
+    background-color: #FFFFFF;
+    
 }
 
 .page__navbar > li {
+    
     display: inline;
 }
+
+.page__navbar > a {
+    text-decoration: none;
+    color: white;
+} 
